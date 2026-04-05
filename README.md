@@ -1,4 +1,4 @@
-# Trabajo Práctio Final Curso de Python
+# Trabajo Práctico Final Curso de Python
 
 ## Descripción
 
